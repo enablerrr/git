@@ -1,4 +1,4 @@
-﻿# gitdeb
+﻿# Lisez-moi / Read me
 
 Bonjour à tous et à toutes. 
 Je me suis rendu compte qu’il y avait beaucoup de personnes qui n’arrivaient pas à utiliser git, j’ai donc écrit ce petit tuto pour vous aider à  l’utiliser.
